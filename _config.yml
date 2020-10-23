@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "안지훈"
   avatar           : "/assets/images/jumping.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "연세대학교 사회학과/컴퓨터과학과, 연세대학교 빅데이터학회 YBIGTA Engineering team"
+  bio              : "연세대학교 사회학과/컴퓨터과학과<br>연세대학교 빅데이터학회 YBIGTA<br>Engineering team"
   location         : "Seoul, Korea"
   email            : "namsick96@naver.com"
   links:
