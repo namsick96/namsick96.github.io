@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "namsick96"
+title                    : "namsick96's blog"
 title_separator          : "-"
-subtitle                 : "잡다한거 올립니다" # site tagline that appears below site title in masthead
+subtitle                 : "이것 저것 정리용" # site tagline that appears below site title in masthead
 name                     : "안지훈/namsick96"
-description              : 
+description              : "안지훈 개인 블로그"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "namsick96/namsock96.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
