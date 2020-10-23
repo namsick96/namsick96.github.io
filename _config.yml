@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "air" #"default" "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "안지훈 블로그"
+title                    : "namsick96"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "잡다한거 올립니다" # site tagline that appears below site title in masthead
 name                     : "안지훈/namsick96"
-description              : "modifying..."
+description              : 
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "namsick96/namsock96.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/yosemite_tunnel_view.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/jumping.jpeg"  #path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     :  #path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "안지훈 블로그" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "안지훈"
+  name             : "**안지훈**"
   avatar           : "/assets/images/jumping.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "연세대학교 사회학과/컴퓨터과학과 \n 연세대학교 YBIGTA"
+  bio              : "연세대학교 사회학과/컴퓨터과학과, 연세대학교 빅데이터학회 YBIGTA Engineering team"
   location         : "Seoul, Korea"
-  email            :
+  email            : "namsick96@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "namsick96@naver.com"
+      #url: "namsick96@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
