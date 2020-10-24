@@ -24,8 +24,8 @@ toc: true
 
 ## Skills
 - Familiar with Python
-- experienced of Java,C,C++,JavaScript
-- experienced of SPSS ,R 
+- experienced Java,C,C++,JavaScript
+- experienced SPSS ,R 
 
 
 ## Projects
