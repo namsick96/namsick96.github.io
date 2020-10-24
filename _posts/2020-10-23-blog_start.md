@@ -8,5 +8,8 @@ tags:
     - test1
     - test2
 last_modified_at: 2020-10-23T08:06:00-05:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 sample test중..
