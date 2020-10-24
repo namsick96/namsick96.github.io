@@ -6,7 +6,7 @@ excerpt: "blog aritcles categories"
 last_modified_at: 2020-10-23T10:15:22-04:00
 toc: true
 ---
-## Notable Features
+## 카테고리 추가하자.
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
