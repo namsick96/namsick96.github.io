@@ -1,5 +1,5 @@
 ---
-title: "Zookeeper aws cluster 만들"
+title: "aws인스턴스로 Zookeeper cluster 만들기 "
 excerpt: "안지훈 주키퍼 포스트"
 
 categories:
@@ -8,7 +8,7 @@ tags:
     - zookeper
     - aws
     - Kafka
-last_modified_at: 2021-01-10T15:06:00-05:00
+last_modified_at: 2021-01-10T08:06:00-05:00
 sitemap :
   changefreq : daily
   priority : 1.0
