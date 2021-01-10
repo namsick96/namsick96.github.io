@@ -1,5 +1,5 @@
 ---
-title: "aws인스턴스로 Zookeeper cluster 만들기 "
+title: "aws인스턴스로 Zookeeper ensemble 만들기 "
 excerpt: "안지훈 주키퍼 포스트"
 
 categories:
@@ -15,7 +15,7 @@ sitemap :
 ---
 <br>
 
-카프카 클러스터를 구성하기 위해서 zookeeper cluster는 우선적으로 설치되어 있어야 한다.
+카프카 클러스터를 구성하기 위해서 zookeeper ensemble는 우선적으로 설치되어 있어야 한다.
 근데 이놈의 주키퍼는 제대로 깔리지가 않는다. 구글링을 해봐도 잘 안되서 내가 어케어케 찾아서 했다.
 그럼 그 삽질의 역사를 정리해서 나중에 나도 다시 삽질 안해보고자 한다.
 
@@ -23,7 +23,7 @@ sitemap :
 
 # aws 인스턴스 만들기
 <br>
-kafka 용으로 인스턴스를 만들거면 3개를 만들면 된다. 클러스터라고 부를려면 최소한 3개는 있어야 한다고 구글에서 그랬다. 걍 하자.ㅣ
+kafka 용으로 인스턴스를 만들거면 3개를 만들면 된다. ensemble라고 부를려면 최소한 3개는 있어야 한다고 구글에서 그랬다. 걍 하자.ㅣ
 인스턴스 이미지는 우분투 18.04 LTS로 했다.
 보안 그룹설정은 다음과 같이 해준다.
 <img width="1016" alt="security_group" src="https://user-images.githubusercontent.com/61309514/104116692-4388c480-535e-11eb-9146-407408ac0de6.png">
