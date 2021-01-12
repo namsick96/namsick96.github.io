@@ -24,7 +24,7 @@ toc: true
 
 ## Skills
 - Familiar with Python
-- experienced Java,C,C++,JavaScript
+- experienced Java, C, C++, JavaScript, SQL
 - experienced SPSS ,R 
 
 
@@ -49,7 +49,8 @@ toc: true
 - Native Korean
 - Advanced English
   - TOEIC 990
-  - TOEFL 98
+  - TOEFL 99
+    (R:29,L:26,S:21,W:23)
 
 ## TA
   - 2020 Fall semester Yosei University SW Programming Class Python TA
