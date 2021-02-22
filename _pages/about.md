@@ -21,11 +21,13 @@ toc: true
 ## Club
 - 연세대학교 빅데이터 학회 YBIGTA(2020 Summer ~ Present)
   - Engineering Team(2020 Summer ~ Present)
+  - Engineering Team Leader (2020 Winter ~ 2021 Summer)
 
 ## Skills
 - Familiar with Python
 - experienced Java, C, C++, JavaScript, SQL
-- experienced SPSS ,R 
+- experienced SPSS ,R
+- experienced Kafka, Docker, Spark, Hadoop, Hive, Django
 
 
 ## Projects
@@ -58,5 +60,6 @@ toc: true
 ## Teaching
   - 2020 Fall semester Yonsei University Tutoring program Social Statistics Tutor
   - 2020 Fall semester Yonsei University Tutoring program R&Python Programming Tutor
+    - 2020 Fall semester Excellence Tutor Award (R&Python Programming) 
 
 
