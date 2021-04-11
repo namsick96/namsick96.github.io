@@ -1,5 +1,5 @@
 ---
-title: "OS에서 Scheduling 이란 무엇인가?
+title: "OS에서 Scheduling 이란 무엇인가?"
 excerpt: "OS"
 
 categories:
