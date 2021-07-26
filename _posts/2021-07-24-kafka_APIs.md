@@ -1,12 +1,12 @@
 ---
-title: "Kafka topic & partition & record"
+title: "Kafka APIs"
 excerpt: 
 
 categories:
     - Kafka
 tags:
     - Kafka
-last_modified_at: 2021-07-24T13:06:00-10:00
+last_modified_at: 2021-07-24T19:06:00-10:00
 sitemap :
   changefreq : daily
   priority : 1.0
